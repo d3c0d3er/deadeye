@@ -1,4 +1,0 @@
-Account: facebook@mail.com Pass: password
-Account: facebook@mail.com Pass: password2222
-newline
-test
